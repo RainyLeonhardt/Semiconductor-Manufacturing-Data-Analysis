@@ -43,3 +43,4 @@ The dataset includes:
 ## Conclusion
 This project demonstrates the potential of data science in improving decision-making in semiconductor manufacturing. It addresses missing values and imbalanced data challenges, paving the way for accurate predictive modeling.
 
+![image](https://github.com/RainyLeonhardt/Semiconductor-Manufacturing-Data-Analysis/assets/55123523/0a542cc3-915e-4ce9-94ef-75d364045189)
